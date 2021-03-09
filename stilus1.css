@@ -1,0 +1,368 @@
+.szoveg { 
+    font-size: 160%; 
+    color:white; 
+    text-align: center;
+}
+.dumarizsa{
+    color:white;
+    font-size: 130%;
+}
+.felsorolas2{
+    color:white;
+}
+.felsorolas3{
+    color:white;
+}
+.felsorolas4{
+    color:white;
+}
+.bevezetes {
+    font-size: 300%;
+    text-align:center;
+    color:white
+
+
+}
+.kep3diszites{
+    float:right;
+    margin-top:1px;
+    margin-left:5px;
+    width:200px;
+    height:700px;
+}
+
+.gombokmenu{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.gomb{
+    width: 200px;
+    margin: 10px;
+    padding: 15px;
+    background:limegreen;
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display: inline-block;
+    color:yellowgreen;
+}
+.gomb:hover{
+    filter: invert(100%);
+    box-shadow: none;
+}
+.kep4diszites{
+    margin-top:1px;
+    margin-left:5px;
+    width:200px;
+    height:700px;
+}
+.body{
+    background-color: black;
+}
+html, body{
+    color: blue;
+}
+.phyton{
+    text-align: center;
+    color: azure;
+}
+.phytonbekezdes{
+    text-align: center;
+    color: azure;
+}
+.gombcicoma{
+    width: 150px;
+    margin: 10px;
+    padding: 15px;
+    background:cornsilk;
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display: inline-block;
+    color:yellowgreen;
+}
+.gombcicoma:hover{
+    filter: invert(100%);
+    box-shadow: none;
+}
+.turtle{
+    float: center;
+    width:650px;
+    height:450px;
+    
+}
+.p{
+    text-align: center;
+    color: cornsilk;
+}
+.turtle2{
+    float: right;
+    width:650px;
+    height: 450px;
+}
+.p2{
+    text-align: center;
+    color: cornsilk;
+}
+.p3{
+    text-align: center;
+    color: cornsilk;
+}
+.fontos{
+    color:yellow
+}
+.fontos2{
+    color:yellow
+}
+.fontos3{
+    color:yellow;
+}
+.github{
+    float: left;
+    width:650px;
+    height:450px;
+}
+.github2{
+    float: right;
+    width:650px;
+    height:450px; 
+}
+.githubend{
+    text-align: center;
+    color: azure;
+}
+.gombcicoma2{
+    width: 150px;
+    margin: 10px;
+    padding: 15px;
+    background:cornsilk;
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display: inline-block;
+    color:yellowgreen;
+}
+.gombcicoma2:hover{
+    filter: invert(100%);
+    box-shadow: none;
+}
+
+.github10{
+    float: right;
+    width:650px;
+    height:450px; 
+}
+.github3{
+    width:650px;
+    height:450px; 
+}
+.gomb4{
+    width: 150px;
+    margin: 10px;
+    padding: 15px;
+    background:cornsilk;
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display: inline-block;
+    color: yellowgreen;
+}
+.gomb4:hover{
+    filter: invert(100%);
+    box-shadow: none;
+}
+.edabit{
+    width:650px;
+    height:450px; 
+}
+.edabit1{
+    text-align: center;
+    color: azure;
+}
+.edabit2{
+    text-align: center;
+    color: azure;
+}
+.edabit3{
+    text-align: center;
+    color: azure;
+}
+.gombocska{
+    width: 150px;
+    margin: 10px;
+    padding: 15px;
+    background:cornsilk;
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display: inline-block;
+    color:yellowgreen;
+}
+.gombocska:hover{
+    filter: invert(100%);
+    box-shadow: none;
+}
+#nyil{
+    text-align: center;
+}
+.meret{
+    width: 250px;
+    height: 150px;
+}
+.edabit00{
+    color: yellow;
+}
+.pp01{
+    color: yellow;
+}
+.lassan{
+    text-align: center;
+    color: white;
+}
+.replit{
+    text-align: center;
+    color: white;
+}
+.suli{
+    text-align: center;
+    color: white;
+}
+.sulipaj{
+    width: 150px;
+    margin: 10px;
+    padding: 15px;
+    background:cornsilk;
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display: inline-block;
+    color:yellowgreen;
+}
+.sulipaj:hover{
+    filter: invert(100%);
+    box-shadow: none;
+}
+.zeusz{
+    width: 150px;
+    margin: 10px;
+    padding: 15px;
+    background:cornsilk;
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    display: inline-block;
+    color:yellowgreen;
+}
+.zeusz:hover{
+    filter: invert(100%);
+    box-shadow: none;
+}
+.unalmas{
+    color: white;
+    text-align: center;
+}
+.replitmunkaim{
+    width:650px;
+    height:450px; 
+}
+.ifelse{
+    width:650px;
+    height:450px; 
+    float:right;
+}
+.ifelse2{
+    width:750px;
+    height:450px; 
+    float:right;
+}
+.kiemeles11{
+    color: yellow;
+}
+.viragszines{
+    width:650px;
+    height:450px; 
+}
+.erdekesharomszog{
+    width:650px;
+    height:450px; 
+    float:right;
+}
+.pnyelvek{
+    color: white;
+    font-size: 15px;
+    font-family: fantasy;
+}
+.vikingi{
+    color: white;
+}
+.vikingiimg{
+    width:650px;
+    height:450px; 
+}
+.exam1{
+    float:right;
+width:650px;
+height:450px; 
+}
+.exam4{
+    width:650px;
+height:450px; 
+}
+.packettracer{
+    width:650px;
+height:450px; 
+}
+.commandport{
+    width:350px;
+    height:850;
+    float:right;
+
+}
+.router{
+    width:550px;
+    height:450px; 
+
+}
+.weboldal18{
+    width:750px;
+height:450px; 
+}
+.tomato{
+    width:750px;
+    height:450px; 
+    float:right;
+}
+.theend{
+    text-align: center;
+    color: azure;
+    font-size: 190%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.lepke{
+    width:750px;
+height:450px; 
+}
