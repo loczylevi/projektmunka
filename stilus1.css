@@ -99,6 +99,7 @@ html, body{
     float: center;
     width:650px;
     height:450px;
+    border: 6px ridge white;
     
 }
 .p{
@@ -109,6 +110,7 @@ html, body{
     float: right;
     width:650px;
     height: 450px;
+    border: 6px ridge white;
 }
 .p2{
     text-align: center;
