@@ -133,11 +133,13 @@ html, body{
     float: left;
     width:650px;
     height:450px;
+    border: 6px ridge white;
 }
 .github2{
     float: right;
     width:650px;
     height:450px; 
+    border: 6px ridge white;
 }
 .githubend{
     text-align: center;
