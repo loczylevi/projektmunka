@@ -297,6 +297,7 @@ html, body{
 .replitmunkaim{
     width:650px;
     height:450px; 
+    border: 6px ridge white;
 }
 .ifelse{
     width:650px;
@@ -308,6 +309,7 @@ html, body{
     width:750px;
     height:450px; 
     float:right;
+    border: 6px ridge white;
 }
 .kiemeles11{
     color: yellow;
@@ -337,36 +339,43 @@ html, body{
 }
 .exam1{
     float:right;
-width:650px;
-height:450px; 
+    width:650px;
+    height:450px; 
+    border: 6px ridge white;
 }
 .exam4{
     width:650px;
-height:450px; 
+    height:450px; 
+    border: 6px ridge white;
 }
 .packettracer{
     width:650px;
 height:450px; 
+    border: 6px ridge white;
 }
 .commandport{
     width:350px;
     height:850;
     float:right;
+    border: 6px ridge white;
 
 }
 .router{
     width:550px;
     height:450px; 
+    border: 6px ridge white;
 
 }
 .weboldal18{
     width:750px;
 height:450px; 
+    border: 6px ridge white;
 }
 .tomato{
     width:750px;
     height:450px; 
     float:right;
+    border: 6px ridge white;
 }
 .theend{
     text-align: center;
