@@ -388,5 +388,11 @@ height:450px;
 .lepke{
     width:750px;
 height:450px; 
-    border: 6px ridge white;
+}
+#kontener{
+    width: 800px;
+    margin: auto;
+    border: 5px solid white;
+    border-top: 20px solid green;
+
 }
