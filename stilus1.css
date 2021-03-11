@@ -309,11 +309,13 @@ html, body{
 .viragszines{
     width:650px;
     height:450px; 
+    border: 6px ridge white;
 }
 .erdekesharomszog{
     width:650px;
     height:450px; 
     float:right;
+    border: 6px ridge white;
 }
 .pnyelvek{
     color: white;
