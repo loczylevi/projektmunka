@@ -196,6 +196,7 @@ html, body{
 .edabit{
     width:650px;
     height:450px; 
+    border: 6px ridge white;
 }
 .edabit1{
     text-align: center;
@@ -301,6 +302,7 @@ html, body{
     width:650px;
     height:450px; 
     float:right;
+    border: 6px ridge white;
 }
 .ifelse2{
     width:750px;
