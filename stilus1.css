@@ -336,6 +336,7 @@ html, body{
 .vikingiimg{
     width:650px;
     height:450px; 
+    border: 6px ridge white;
 }
 .exam1{
     float:right;
