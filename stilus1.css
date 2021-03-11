@@ -29,6 +29,7 @@
     margin-left:5px;
     width:200px;
     height:700px;
+    border: 6px ridge white;
 }
 
 .gombokmenu{
@@ -60,6 +61,7 @@
     margin-left:5px;
     width:200px;
     height:700px;
+    border: 6px ridge white;
 }
 .body{
     background-color: black;
