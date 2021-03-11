@@ -227,6 +227,7 @@ html, body{
 .meret{
     width: 250px;
     height: 150px;
+    border: 6px ridge white;
 }
 .edabit00{
     color: yellow;
