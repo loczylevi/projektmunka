@@ -168,10 +168,12 @@ html, body{
     float: right;
     width:650px;
     height:450px; 
+    border: 6px ridge white;
 }
 .github3{
     width:650px;
     height:450px; 
+    border: 6px ridge white;
 }
 .gomb4{
     width: 150px;
